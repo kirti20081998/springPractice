@@ -1,2 +1,2 @@
 # springPractice
-I practice my code in here.
+I practice my coding here.
